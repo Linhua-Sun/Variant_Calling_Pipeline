@@ -1,0 +1,12 @@
+#!/bin/bash
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037208 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037207 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037206 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037205 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037204 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037203 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037202 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037201 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037200 10
+sh GATK_1_21_anotation_version_time_multiple_cores.sh ERR037209 10
+
